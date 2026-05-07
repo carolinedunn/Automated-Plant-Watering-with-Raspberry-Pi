@@ -63,8 +63,8 @@ The pump's power supply positive wire connects to the **NO** terminal, and the n
 If you completed the prerequisite project, you should already have the required libraries. If not, run:
 
 ```bash
-sudo apt-get update
-pip3 install gpiozero adafruit-circuitpython-ads1x15
+sudo apt update
+sudo apt install gpiozero adafruit-circuitpython-ads1x15
 ```
 
 ### 2. Download the Scripts
