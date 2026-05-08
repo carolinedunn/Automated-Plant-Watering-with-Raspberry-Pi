@@ -64,7 +64,7 @@ If you completed the prerequisite project, you should already have the required 
 
 ```bash
 sudo apt update
-sudo apt install gpiozero adafruit-circuitpython-ads1x15
+pip install adafruit-circuitpython-ads1x15 --break-system-packages
 ```
 
 ### 2. Download the Scripts
