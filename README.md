@@ -2,6 +2,13 @@
 
 A Raspberry Pi-powered system that automatically checks soil moisture and triggers a water pump when your plant needs a drink — no babysitting required.
 
+<a href="https://youtu.be/m9RlRC9JQWk">
+  <img src="ep3-play.jpg" width="720" alt="EP2">
+</a>
+
+[DIY Remote Plant Monitor Part 3: Build an Automatic Self-Watering System](https://youtu.be/m9RlRC9JQWk)
+
+
 ## 📋 Prerequisites
 
 Before starting this setup, you **MUST** first complete the AI Plant Review + Moisture Sensor project, which covers Firebase setup, the ADS1115 ADC wiring, and the capacitive soil moisture sensor:
